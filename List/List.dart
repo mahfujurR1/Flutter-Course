@@ -13,4 +13,7 @@ main()
 
   print(friuts[3]);
 
+  print(friuts.length);
+  print(number.length);
+
 }
