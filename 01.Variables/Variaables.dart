@@ -13,6 +13,7 @@ String name = 'dart';// we can use both double qouts or singel qoutes in string
 var city="New york";//String
 var score=69;//int
 
+
 //print('City: $city');
 //print('score : $score');
 
