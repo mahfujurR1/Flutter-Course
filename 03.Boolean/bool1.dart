@@ -1,10 +1,8 @@
- main() {
-  bool isStudent = true;
-  bool hasLibraryCard = false;
+main()
+{
+ 
+  int age =18;
 
-  if (isStudent && hasLibraryCard) {
-    print('Access granted to the library.');
-  } else {
-    print('Access denied.');
-  }
+  bool isAdult= age>=18;//true
+  print(isAdult);
 }
