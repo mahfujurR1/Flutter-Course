@@ -10,4 +10,5 @@ main()
 
   print(friuts[5]);
 
+
 }
