@@ -16,6 +16,10 @@ main()
   print(Countries);
   print(Countries.length);
 
+  // item exist check on set
+  print(Countries.contains('India'));
+  
+
 
 
 }
