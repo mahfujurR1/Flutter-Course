@@ -18,8 +18,5 @@ main()
 
   // item exist check on set
   print(Countries.contains('India'));
-  
-
-
 
 }
