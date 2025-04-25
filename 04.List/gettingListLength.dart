@@ -12,4 +12,5 @@ main()
   print(friuts.length);
   print(number.length);
 
+
 } 
