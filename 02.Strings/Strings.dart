@@ -34,6 +34,4 @@ and historical significance makes it a unique and beautiful destination.
 ''';// we can also 3 double qoutes
 //print(Bangladesh);
 
-
-
 }
