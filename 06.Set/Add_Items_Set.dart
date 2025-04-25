@@ -5,7 +5,6 @@ main()
 
   print(Countries);
  
-  
   //add items 
 
   Countries.add('bhutan');
