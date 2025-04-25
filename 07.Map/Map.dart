@@ -21,4 +21,5 @@ main()
   Capitals['Nepal']="Pokhra\n";
   print(Capitals);
   
+  
 }
