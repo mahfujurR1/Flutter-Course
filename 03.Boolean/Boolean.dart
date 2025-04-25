@@ -6,7 +6,6 @@ main()
   print('Is it sunny today? $isSunny');
   print('Is it sunny today? $isRainy');
 
-
   //example with condition
   int age =18;
 
