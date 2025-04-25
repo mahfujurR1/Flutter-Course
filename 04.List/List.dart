@@ -22,7 +22,6 @@ main()
 
   //use var
 
-
   var colors=['Red','Green','Blue'];
   print(colors[2]);
 
