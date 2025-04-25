@@ -20,4 +20,5 @@ main()
   //Update value
   Capitals['Nepal']="Pokhra\n";
   print(Capitals);
+  
 }
