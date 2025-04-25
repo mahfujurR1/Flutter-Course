@@ -3,6 +3,8 @@ main()
   List<String>friuts =['Apple','Banana','Mango'];
   List<int>number=[1,2,3,4];
 
+  //accesing items
+
   print(friuts[2]);
   print(number[2]);
 
@@ -13,7 +15,17 @@ main()
 
   print(friuts[3]);
 
+  //getting length
+
   print(friuts.length);
   print(number.length);
+
+  //use var
+
+
+  var colors=['Red','Green','Blue'];
+  print(colors[2]);
+
+
 
 }
