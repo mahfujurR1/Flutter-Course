@@ -15,6 +15,8 @@ void main() {
     print("Go");
   }
 
+  
+
   // Print all values
   print("\nAll traffic signals:");
   for (var light in TrafficLight.values) {
