@@ -22,4 +22,4 @@ main()
   print(Capitals);
   
   
-}
+}       
